@@ -55,11 +55,14 @@ This project showcases my ability to translate design concepts into
 functional interfaces while applying responsive design techniques and
 user-centered principles.
 
-| Detail | Info |
-|---|---|
-| 🖥️ Tech Stack | HTML, CSS, JavaScript, Figma |
-| ✨ Key Feature | Clean, responsive interface with intuitive layout and structured navigation |
-| 📌 Status | In Progress |
+- 🖥️ **Tech Stack:**
+  - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  - ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+- ✨ **Key Feature:** Clean, responsive interface with intuitive layout
+  and structured navigation
+- 📌 **Status:** In Progress
 
 🔗 [View Repository](#) | [Live Demo](#)
 
@@ -67,8 +70,6 @@ user-centered principles.
 
 ## 📬 Contact Me
 
-| Platform | Details |
-|---|---|
-| 📧 Email | junejulianarvasa@gmail.com |
-| 🐙 GitHub | https://github.com/julia-glitchspec |
-| 📞 Phone | [Your Phone Number] |
+- 📧 **Email:** junejulianarvasa@gmail.com
+- 🐙 **GitHub:** https://github.com/julia-glitchspec
+- 📞 **Phone:** [Your Phone Number]
