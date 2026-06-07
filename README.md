@@ -54,5 +54,4 @@ This project showcases my ability to translate design concepts into functional i
 ## 📬 Contact Me
 - **Email:** junejulianarvasa@gmail.com  
 - **GitHub:** https://github.com/julia-glitchspec  
-- **LinkedIn:** [Your LinkedIn Profile]  
 - **Phone:** [Your Phone Number]
