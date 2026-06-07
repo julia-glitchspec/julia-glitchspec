@@ -16,9 +16,7 @@ I enjoy the process of turning ideas and designs into interactive websites, and 
 ### Front-End Development (Current Focus)
 - HTML5
 - CSS3
-- JavaScript
 - Responsive Web Design
-- Git & GitHub
 
 ### UI/UX Design (Growth Area)
 - Figma
