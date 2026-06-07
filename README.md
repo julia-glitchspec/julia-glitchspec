@@ -39,7 +39,7 @@ This project focuses on creating an intuitive interface that helps users easily 
 🔗 [View Repository](#) | [Live Demo](#)
 
 ## 📬 Contact Me
-- **Email:** (mailto:junejulianarvasa@gmail.com)
+- **Email:** [junejulianarvasa@gmail.com]
 - **GitHub:** [https://github.com/julia-glitchspec]
 - **LinkedIn:** [your LinkedIn]
 - **Phone:** [your phone number]
