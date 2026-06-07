@@ -1,43 +1,58 @@
 # Juliana L. Narvasa
-**Aspiring Front-End Developer | Aspiring UI/UX Designer | BSIT Student at [Your School]**  
-**Focused on building responsive, user-friendly, and visually engaging web experiences**
+**Front-End Developer | Aspiring UI/UX Designer | BSIT Student**  
+**Building responsive, user-centered web experiences with a strong foundation in Java**
 
 [Portfolio](#) | [LinkedIn](#) | [Email](mailto:junejulianarvasa@gmail.com)
 
+---
+
 ## About Me
-I am a Bachelor of Science in Information Technology student passionate about creating websites that are not only functional but also visually appealing and easy to use. My goal is to become a skilled **Front-End Developer** while continuously growing as a **UI/UX Designer**.
+I am a Bachelor of Science in Information Technology student with a strong interest in front-end development and user interface design. I specialize in building responsive, structured, and visually engaging web interfaces that prioritize clarity and usability.
 
-Currently, I am strengthening my skills in **front-end development**, especially in building responsive interfaces using modern web technologies. At the same time, I am exploring **UI/UX design principles** such as wireframing, prototyping, user flow, and accessibility to better understand how users interact with digital products.
+My primary focus is front-end development, where I continuously refine my skills in HTML, CSS, and responsive design principles. Alongside this, I am developing my foundation in Java programming, strengthening my understanding of object-oriented programming, system logic, and application structure.
 
-I enjoy the process of turning ideas and designs into interactive websites, and I am committed to improving both my coding and design skills to create seamless user experiences.
+By combining design awareness with technical knowledge, I aim to create digital experiences that are not only functional but also intuitive and meaningful to users. My long-term goal is to grow into a well-rounded developer who bridges the gap between design and development.
+
+---
 
 ## 🛠️ Skills
 
-### Front-End Development (Current Focus)
-- HTML5
-- CSS3
-- Responsive Web Design
+### Front-End Development
+- HTML5  
+- CSS3  
+- Responsive Web Design  
+- Basic JavaScript  
+- Git & GitHub  
 
-### UI/UX Design (Growth Area)
-- Figma
-- Wireframing
-- Prototyping
-- User Flow Design
-- Visual Hierarchy
-- Accessibility Principles
+### UI/UX Design
+- Figma  
+- Wireframing  
+- Prototyping  
+- User Flow Design  
+- Visual Hierarchy  
+- Accessibility Principles  
+
+### Back-End Foundation
+- Java (Object-Oriented Programming, Basic Application Development)
+
+---
 
 ## 📂 Featured Project
-### [Your Project Title]
-*A web-based project designed to deliver a clean, responsive, and user-friendly experience.*
 
-This project focuses on creating an intuitive interface that helps users easily navigate the system and complete their tasks efficiently. It reflects my interest in combining front-end development and UI/UX principles to create designs that are both functional and visually effective.
+### [Project Title]
+*A responsive web-based project designed with usability, structure, and visual clarity in mind.*
+
+This project showcases my ability to translate design concepts into functional interfaces while applying responsive design techniques and user-centered principles.
 
 **Tech Stack:** HTML, CSS, JavaScript, Figma  
-**Key Feature:** Responsive interface with a user-centered layout and clean visual structure.  
+**Key Feature:** Clean, responsive interface with intuitive layout and structured navigation.
+
 🔗 [View Repository](#) | [Live Demo](#)
 
+---
+
 ## 📬 Contact Me
-- **Email:** [junejulianarvasa@gmail.com]
-- **GitHub:** [https://github.com/julia-glitchspec]
-- **LinkedIn:** [your LinkedIn]
-- **Phone:** [your phone number]
+- **Email:** junejulianarvasa@gmail.com  
+- **GitHub:** https://github.com/julia-glitchspec  
+- **LinkedIn:** [Your LinkedIn Profile]  
+- **Phone:** [Your Phone Number]
